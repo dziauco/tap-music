@@ -2,6 +2,8 @@ const sounds = document.querySelectorAll('.sound');
 const pads = document.querySelectorAll('.pads div');
 const animationZone = document.querySelector('.animation-zone');
 
+console.log('hello, world!');
+
 const colors = [
   "cadetblue",
   "burlywood",
